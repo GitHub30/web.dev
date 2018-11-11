@@ -32,15 +32,8 @@ include it in the page:
 &lt;/body&gt;
 </pre>
 
-<div class="aside note">
-The
-[lazysizes.min.js](https://raw.githubusercontent.com/aFarkas/lazysizes/gh-pages/lazysizes.min.js)
-file has already been added to this project, so there is no need to add it
-separately. The script you just added can use this script.
-</div>
-
-lazysizes will intelligently load images as the user scrolls through the page
-and prioritize the images that the user is going to encounter soon.
+lazysizes intelligently loads images as the user scrolls through the page
+and prioritizes the images that the user is going to encounter soon.
 
 ## Indicate the images to lazy load
 
